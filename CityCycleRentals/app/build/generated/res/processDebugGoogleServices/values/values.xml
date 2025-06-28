@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">49693355672</string>
+    <string name="google_api_key" translatable="false">AIzaSyAp1mFCXn1KLUELKaRWGdBiPrDt5E2QzAE</string>
+    <string name="google_app_id" translatable="false">1:49693355672:android:a8b96f752a5d8b50b02aed</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAp1mFCXn1KLUELKaRWGdBiPrDt5E2QzAE</string>
+    <string name="google_storage_bucket" translatable="false">citycycle-rentals-8aec9.firebasestorage.app</string>
+    <string name="project_id" translatable="false">citycycle-rentals-8aec9</string>
+</resources>
